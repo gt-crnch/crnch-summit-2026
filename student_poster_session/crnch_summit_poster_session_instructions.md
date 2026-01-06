@@ -1,23 +1,28 @@
-# CRNCH Summit Poster Session - 2025
+# CRNCH Summit Poster Session - 2026
  
-The CRNCH Summit will take place in person in the Marcus Nanotechnology Building on February 13 to 14. The poster session will run during the afternoon on February 13 from 4:40 to 6 PM, and posters will be up all day Thursday. We also plan to feature poster PDFs on our digital site for those of you who give us permission to do so.
+The CRNCH Summit will take place in person in the _Klaus Advanced Computing Building Atrium_ on __February 12 to 13__.
+Please check the agenda for when the poster session will take place .
+We also plan to feature poster PDFs on our digital site for those of you who give us permission to do so.
 
 ## Poster Submission Instructions
-The CRNCH Summit Poster template can be found under OneDrive [at this link](https://gtvault-my.sharepoint.com/:p:/g/personal/chao33_gatech_edu/EVct65VenNRAnurIWxV6NfAB6R7YQQGZk5BUAPWQhREGIg?e=YknH4Y). You may need to log in with your GT account.
+The CRNCH Summit Poster template can be found under OneDrive [at this link](https://gtvault-my.sharepoint.com/:p:/g/personal/chao33_gatech_edu/EVct65VenNRAnurIWxV6NfAB6R7YQQGZk5BUAPWQhREGIg?e=YknH4Y).
+You may need to log in with your GT account.
 
 ### Submission Deadlines
 
-PDF Submission Deadline via the Survey Link (Please remember to print your poster): 11:59 PM, 2/11/2025
+PDF Submission Deadline via the Survey Link (Please remember to print your poster): 11:59 PM, 2/10/2025
 
 To present a poster we ask you to do the following:
 1) [Submit your poster here](https://epay.gatech.edu/C20793_ustores/web/store_main.jsp?STOREID=560&clearPreview=true) with the requested information about your poster.
-2)  Please register for the summit [using this link](https://epay.gatech.edu/C20793_ustores/web/store_main.jsp?STOREID=560&clearPreview=true). You can select the audit option if you only plan to attend the poster session. 
-3)  Bring your poster to the summit registration desk by 1 PM on Thursday, Feb. 13.
-4)  Prepare to present your poster and talk about it with other attendees around 4:30 PM on Thursday, Feb. 13.
+2)  Please register for the Summit [using this link](https://epay.gatech.edu/C20793_ustores/web/store_main.jsp?STOREID=560&clearPreview=true). You can select the audit option if you only plan to attend the poster session. 
+3)  Bring your poster to the summit registration desk by 1 PM on Feb. 12.
+4)  Prepare to present your poster and talk about it with other attendees as scheduled.
 
 ## Printing your poster
 
-**NOTE**: We are asking you to please print and bring your poster to the check-in desk Thursday by 1 PM. Foam poster board (size 30x40) and easels will be provided for all presenters. You can print your poster either at the library or at Paper and Clay.
+**NOTE**: We are asking you to please print and bring your poster to the check-in desk Feb 12 by 1 PM.
+Foam poster board (size 30x40) and easels will be provided for all presenters.
+You can print your poster either at the library or at Paper and Clay.
 
 [GT Library Poster Request and Instructions](https://www.library.gatech.edu/poster-request) 
 
@@ -36,7 +41,7 @@ Please either drop off your poster when you check in Thursday morning or by 1 PM
 
 ## Online Posting of Your Poster PDF and Abstract
 
-If you have given us permission, we will post your PDF poster, title and abstract on our archival site at https://github.com/gt-crnch/crnch-summit-2025. Our intention is to create a DOI that you can use to cite this poster presentation. 
+If you have given us permission, we will post your PDF poster, title and abstract on our archival site at https://github.com/gt-crnch/crnch-summit-2026. Our intention is to create a DOI that you can use to cite this poster presentation. 
 
 We will use your responses from the submitted form to determine whether to post your poster-related information. You can choose to:
 1) Share your poster PDF and abstract
