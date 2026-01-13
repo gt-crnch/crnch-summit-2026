@@ -1,7 +1,7 @@
 # CRNCH Summit Poster Session - 2026
  
 The CRNCH Summit will take place in person in the _Klaus Advanced Computing Building Atrium_ on __February 12 to 13__.
-Please check the agenda to determine when the poster session will take place.
+Please review the agenda to determine the time and date of the poster session.
 We also plan to feature poster PDFs on our digital site for those of you who permit us to do so.
 
 ## Poster Submission Instructions
